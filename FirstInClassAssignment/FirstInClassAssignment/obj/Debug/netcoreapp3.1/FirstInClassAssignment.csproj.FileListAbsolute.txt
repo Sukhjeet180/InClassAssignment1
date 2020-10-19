@@ -1,0 +1,13 @@
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\bin\Debug\netcoreapp3.1\FirstInClassAssignment.exe
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\bin\Debug\netcoreapp3.1\FirstInClassAssignment.deps.json
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\bin\Debug\netcoreapp3.1\FirstInClassAssignment.runtimeconfig.json
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\bin\Debug\netcoreapp3.1\FirstInClassAssignment.runtimeconfig.dev.json
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\bin\Debug\netcoreapp3.1\FirstInClassAssignment.dll
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\bin\Debug\netcoreapp3.1\FirstInClassAssignment.pdb
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\obj\Debug\netcoreapp3.1\FirstInClassAssignment.csprojAssemblyReference.cache
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\obj\Debug\netcoreapp3.1\FirstInClassAssignment.AssemblyInfoInputs.cache
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\obj\Debug\netcoreapp3.1\FirstInClassAssignment.AssemblyInfo.cs
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\obj\Debug\netcoreapp3.1\FirstInClassAssignment.csproj.CoreCompileInputs.cache
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\obj\Debug\netcoreapp3.1\FirstInClassAssignment.dll
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\obj\Debug\netcoreapp3.1\FirstInClassAssignment.pdb
+D:\HUMBER  college\Git\FirstInClassAssignment\FirstInClassAssignment\obj\Debug\netcoreapp3.1\FirstInClassAssignment.genruntimeconfig.cache
